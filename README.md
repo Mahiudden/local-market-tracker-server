@@ -20,7 +20,7 @@ English: This backend server powers the Daily Price Tracker app, handling APIs, 
 
 ## 🔐 Authentication Details
 - **Admin Email:** `admin@example.com`
-- **Admin Password:** `your-admin-password`
+- **Admin Password:** `Admin123`
 
 ## 📁 Folder Structure
 ```
