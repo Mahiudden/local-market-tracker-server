@@ -1,7 +1,6 @@
 # Daily Price Tracker for Local Markets (কাঁচাবাজার) - Backend
 
 ## 📚 Project Description
-বাংলা: এই ব্যাকএন্ড সার্ভারটি কাঁচাবাজার অ্যাপের জন্য API, অথেন্টিকেশন, ডাটাবেস, পেমেন্ট, ইউজার ও প্রোডাক্ট ম্যানেজমেন্ট ইত্যাদি পরিচালনা করে।
 
 English: This backend server powers the Daily Price Tracker app, handling APIs, authentication, database, payment, user and product management, and more.
 
