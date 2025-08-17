@@ -83,5 +83,4 @@ $ node server.js
 
 ## 🙏 Credits / Contributors
 - [Your Name](https://github.com/Mahiudden)
-- [See contributors](https://github.com/your-username/your-repo/graphs/contributors)
 
