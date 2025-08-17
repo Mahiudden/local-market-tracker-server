@@ -78,11 +78,10 @@ $ node server.js
 ```
 
 ## 📸 Screenshots
-<!-- Add images here -->
+<img width="1906" height="905" alt="image" src="https://github.com/user-attachments/assets/1e4d1366-8c58-49a9-9a07-2657c528a76d" />
+
 
 ## 🙏 Credits / Contributors
 - [Your Name](https://github.com/your-username)
 - [See contributors](https://github.com/your-username/your-repo/graphs/contributors)
 
-## 📄 License
-MIT 
